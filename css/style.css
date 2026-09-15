@@ -1,5 +1,5 @@
 body{
-    background-color: pink;
+    background-color: #FBEC5D;
 }
 
 h1 {
@@ -8,16 +8,29 @@ h1 {
 }
 
 h2 {
-    font-weight: light;
+    font-weight: bolder;
     font-size: 20px;
     text-decoration: underline;
+    color:blueviolet;
 }
 
 p {
-    font-family: Courier;
+    font-family: Helvetica;
 }
 
 ul{
     list-style-type: disc;
 }
 
+img {
+    width: 300px;
+    border: 5px solid #4f4cf7;
+}
+
+div.step3 {
+    background-color: white;
+}
+
+ul {
+    list-style-type: square;
+}
